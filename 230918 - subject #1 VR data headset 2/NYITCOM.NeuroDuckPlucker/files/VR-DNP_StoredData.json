@@ -1,0 +1,444 @@
+{
+    "listOfAllRounds": [
+        {
+            "playerHeight": 1.5394622087478638,
+            "totalPointsEarned": -9.0,
+            "totalPlayTime": 29.0,
+            "levelReached": 1,
+            "objectsSpawnedList": [
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.144296407699585,
+                    "gameTimeWhenSpawned": 4.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 6.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 6.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 6.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.4797358512878419,
+                    "gameTimeWhenSpawned": 7.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 9.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 9.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.884162187576294,
+                    "gameTimeWhenSpawned": 9.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 11.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.531334638595581,
+                    "gameTimeWhenSpawned": 10.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 12.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 12.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 12.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.1565074920654297,
+                    "gameTimeWhenSpawned": 13.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 15.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 15.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 15.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.3096487522125245,
+                    "gameTimeWhenSpawned": 16.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 18.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 18.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 18.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.2226142883300782,
+                    "gameTimeWhenSpawned": 19.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 22.0,
+                    "timeToHitDelta": 3.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 21.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 21.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.3962197303771973,
+                    "gameTimeWhenSpawned": 22.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 25.0,
+                    "timeToHitDelta": 3.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 24.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 24.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.4749222993850709,
+                    "gameTimeWhenSpawned": 25.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 28.0,
+                    "timeToHitDelta": 3.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 27.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 27.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.3273082971572877,
+                    "gameTimeWhenSpawned": 28.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 31.0,
+                    "timeToHitDelta": 3.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 30.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.7894622087478638,
+                    "gameTimeWhenSpawned": 30.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.3273082971572877,
+                    "gameTimeWhenSpawned": 31.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                }
+            ]
+        },
+        {
+            "playerHeight": 1.5555031299591065,
+            "totalPointsEarned": 0.0,
+            "totalPlayTime": 56.0,
+            "levelReached": 0,
+            "objectsSpawnedList": [
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.183449625968933,
+                    "gameTimeWhenSpawned": 58.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 60.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 59.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.9002032279968262,
+                    "gameTimeWhenSpawned": 59.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 61.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.1928436756134034,
+                    "gameTimeWhenSpawned": 61.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 63.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 62.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 62.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.2769134044647217,
+                    "gameTimeWhenSpawned": 64.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 66.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 65.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.9002032279968262,
+                    "gameTimeWhenSpawned": 65.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 67.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.3659495115280152,
+                    "gameTimeWhenSpawned": 67.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 69.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 68.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.9002032279968262,
+                    "gameTimeWhenSpawned": 68.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 70.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.4180048704147339,
+                    "gameTimeWhenSpawned": 70.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 72.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 71.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 71.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.283800482749939,
+                    "gameTimeWhenSpawned": 73.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 75.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 74.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 74.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.4730165004730225,
+                    "gameTimeWhenSpawned": 76.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 78.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 77.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 77.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.2291854619979859,
+                    "gameTimeWhenSpawned": 79.0,
+                    "wasObjectHit": "Yes",
+                    "gameTimeWhenHit": 81.0,
+                    "timeToHitDelta": 2.0
+                },
+                {
+                    "objectType": "R_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 80.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "L_HandTarget",
+                    "objectSpawnHeight": 1.8055031299591065,
+                    "gameTimeWhenSpawned": 80.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                },
+                {
+                    "objectType": "Obstacle",
+                    "objectSpawnHeight": 1.2291854619979859,
+                    "gameTimeWhenSpawned": 82.0,
+                    "wasObjectHit": "No",
+                    "gameTimeWhenHit": 0.0,
+                    "timeToHitDelta": 0.0
+                }
+            ]
+        }
+    ]
+}
